@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# LLM Discovery Standard
+# See https://llmstxt.org/ for details
+# LLM files located at /llms.txt and /llms-full.txt

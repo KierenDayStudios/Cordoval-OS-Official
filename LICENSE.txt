@@ -1,0 +1,189 @@
+CORDOVAL SOFTWARE LICENCE AGREEMENT
+
+Last updated: 16/8/2016
+
+This Software Licence Agreement ("Licence") governs your use of software developed and distributed by Cordoval ("Cordoval", "we", "us" or "our"), including Cordoval OS and other Cordoval software products ("Software").
+
+By downloading, installing, accessing or using the Software, you agree to be bound by this Licence. If you do not agree to these terms, do not install or use the Software.
+
+1. Licence Grant
+
+Subject to your compliance with this Licence, Cordoval grants you a limited, non-exclusive, non-transferable, revocable licence to download, install and use the Software for lawful personal or commercial purposes.
+
+The Software is provided free of charge unless otherwise stated by Cordoval.
+
+This Licence does not transfer ownership of the Software to you.
+
+2. Proprietary Software
+
+The Software is proprietary software owned by or licensed to Cordoval.
+
+The Software is not open-source software.
+
+You are not granted any right to access, obtain or distribute the source code of the Software except where such rights are expressly provided by applicable law or by a separate written agreement with Cordoval.
+
+All rights not expressly granted under this Licence are reserved by Cordoval.
+
+3. Permitted Use
+
+You may:
+
+- Download the Software from an authorised distribution source.
+- Install the Software on devices that you own or are authorised to use.
+- Use the Software for personal purposes.
+- Use the Software for commercial and business purposes.
+- Make reasonable backup copies of the Software for your own use where permitted by applicable law.
+
+4. Restrictions
+
+Except where expressly permitted by this Licence or applicable law, you must not:
+
+- Sell or resell the Software.
+- Rent, lease or sublicense the Software.
+- Redistribute copies of the Software.
+- Upload the Software to unauthorised download or file-sharing services.
+- Publicly mirror or republish the Software.
+- Modify, adapt or create derivative works of the Software.
+- Remove copyright, trademark or proprietary notices.
+- Circumvent technical restrictions intentionally implemented by Cordoval.
+- Use the Software to create a substantially similar competing product through unauthorised copying of protected materials.
+- Represent the Software as your own product.
+- Use Cordoval branding in a way that suggests endorsement or affiliation without permission.
+
+Nothing in this section restricts rights that cannot legally be restricted under applicable law.
+
+5. Reverse Engineering
+
+You must not reverse engineer, decompile or disassemble the Software except to the extent that applicable law expressly permits such activity despite this restriction.
+
+Where applicable law permits such activity, any information obtained must only be used for the purposes permitted by that law.
+
+6. Updates
+
+Cordoval may provide updates, patches, improvements and new versions of the Software.
+
+Updates may include:
+
+- Bug fixes
+- Security improvements
+- New features
+- Performance improvements
+- Changes to functionality
+- Removal or modification of features
+
+Cordoval may provide updates automatically or require you to install them manually.
+
+We do not guarantee that every feature will remain available indefinitely.
+
+7. Third-Party Software
+
+The Software may contain or interact with third-party software, libraries, frameworks, services or technologies.
+
+Such components may be governed by separate licence terms.
+
+Where applicable, those terms will take precedence over this Licence in relation to the relevant third-party component.
+
+8. User Data
+
+Cordoval may provide software that stores information locally on your device.
+
+You are responsible for maintaining appropriate backups of important information.
+
+Unless expressly stated otherwise, Cordoval does not guarantee that data stored through the Software will be recoverable following:
+
+- Hardware failure
+- Operating-system failure
+- User error
+- Accidental deletion
+- Malware or other security incidents
+- Corruption
+- Unauthorised access
+- Loss or damage to the device
+
+You should maintain independent backups of important business or personal data.
+
+9. AI Features
+
+Some Cordoval products may contain artificial intelligence features.
+
+AI-generated information may be inaccurate, incomplete, outdated or unsuitable for your particular circumstances.
+
+You are responsible for reviewing and verifying AI-generated content before relying upon it.
+
+Cordoval does not guarantee that AI-generated information is accurate or suitable for any particular purpose.
+
+The Software should not be relied upon as a substitute for professional legal, financial, medical, accounting or other specialist advice.
+
+10. No Guarantee of Results
+
+Cordoval software is provided as a tool.
+
+We do not guarantee that using the Software will result in:
+
+- Increased revenue
+- Increased productivity
+- Business growth
+- Financial returns
+- Successful projects
+- Successful marketing campaigns
+- Successful investments
+- Any particular business outcome
+
+You remain responsible for decisions made using the Software.
+
+11. Availability
+
+We may modify, suspend or discontinue the Software or any particular feature at any time.
+
+We will endeavour to maintain and improve our products but do not guarantee uninterrupted availability or compatibility with every device or operating system.
+
+12. Disclaimer
+
+To the maximum extent permitted by applicable law, the Software is provided on an "as available" and "as is" basis.
+
+We do not guarantee that the Software will:
+
+- Be completely error-free.
+- Be uninterrupted.
+- Work with every hardware configuration.
+- Work with every operating system version.
+- Meet every individual requirement.
+- Be permanently available.
+
+Nothing in this Licence excludes or limits any legal right or liability that cannot lawfully be excluded or limited.
+
+13. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Cordoval shall not be liable for indirect, incidental, special or consequential losses arising from your use of the Software, including loss of profits, revenue, business opportunities, data or goodwill.
+
+Nothing in this Licence excludes or limits liability for matters that cannot legally be excluded or limited under applicable law.
+
+14. Termination
+
+This Licence remains in effect until terminated.
+
+Your rights under this Licence may automatically terminate if you materially breach its terms.
+
+Upon termination, you must cease any use of the Software that is no longer permitted.
+
+Termination does not affect rights or obligations that arose before termination.
+
+15. Intellectual Property
+
+All intellectual property rights in the Software, including copyright, trademarks, designs, branding and associated materials, remain the property of Cordoval or its licensors.
+
+Nothing in this Licence grants you ownership of those rights.
+
+16. Changes to This Licence
+
+Cordoval may update this Licence from time to time.
+
+The latest version will be made available through the relevant Cordoval website or Software.
+
+Continued use of the Software following changes may constitute acceptance of the updated Licence to the extent permitted by applicable law.
+
+17. Governing Law
+
+This Licence shall be governed by the laws of England and Wales, subject to any mandatory consumer protections or other legal rights that apply to you under the law of your jurisdiction.
+
+For legal or business enquiries: cordoval.work@gmail.com
