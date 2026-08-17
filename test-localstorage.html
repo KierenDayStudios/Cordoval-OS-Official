@@ -1,8 +1,0 @@
-<script>
-const originalSetItem = Storage.prototype.setItem;
-Storage.prototype.setItem = function(key, value) {
-  console.log('Intercepted setItem:', key);
-  originalSetItem.call(this, key, value);
-};
-localStorage.setItem('test', '123');
-</script>
